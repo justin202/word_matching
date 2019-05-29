@@ -1,0 +1,8 @@
+new	IV	new
+pix	OOV	pictures
+comming	OOV	coming
+tomoroe	OOV	tomorrow
+dang	OOV	dang
+effin	OOV	fucking
+greenbay	OOV	greenbay
+new	IV	new
